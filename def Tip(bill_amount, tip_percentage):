@@ -1,0 +1,4 @@
+def Tip(bill_amount, tip_percentage):
+	return bill_amount*tip_percentage
+
+print (100,0.25)
